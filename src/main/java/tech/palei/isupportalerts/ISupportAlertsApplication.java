@@ -1,13 +1,14 @@
-package tech.palei.loadsopqdrant;
+
+package tech.palei.isupportalerts;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class LoadSopQdrantApplication {
+public class ISupportAlertsApplication {
 
 	public static void main(String[] args) {
-		SpringApplication.run(LoadSopQdrantApplication.class, args);
+		SpringApplication.run(ISupportAlertsApplication.class, args);
 	}
 
 }

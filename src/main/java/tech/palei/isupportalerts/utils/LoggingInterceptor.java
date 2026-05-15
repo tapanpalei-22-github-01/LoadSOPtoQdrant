@@ -1,4 +1,4 @@
-package tech.palei.loadsopqdrant.service;
+package tech.palei.isupportalerts.utils;
 
 import org.springframework.http.HttpRequest;
 import org.springframework.http.client.ClientHttpRequestExecution;
